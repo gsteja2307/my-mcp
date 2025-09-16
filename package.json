@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "1.16"
+    "@modelcontextprotocol/sdk": "1.16",
+    "zod": "^3.25.76"
   }
 }
