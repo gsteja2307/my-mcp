@@ -8,7 +8,7 @@
  * Examples:
  *   node test-tool.js list         # Lists all available tools
  *   node test-tool.js list add     # Describes the 'add' tool specifically
- *   node test-tool.js initialize   # Sends initialize request (future feature) **  TODO
+ *   node test-tool.js initialize   # Sends initialize request
  */
 
 import { spawn } from 'child_process';
